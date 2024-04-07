@@ -3,7 +3,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 if __name__=='__main__':
-    files_dir = os.path.join(BASE_DIR, "images")
+    files_dir = os.path.join(BASE_DIR, "Texts")
 
     os.makedirs(files_dir, exist_ok=True)
 
