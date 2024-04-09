@@ -1,6 +1,6 @@
-# SEND AND READ MAIL
+# CREATE FILE, READ FILE AND DOWNLOAD FROM URL AND SAVE IT TO FILE
 
-A python script to send mail to List of users using smtp library
+A python script to create file using python, read file, make requests to a url, get the data and download and save the data into a file using python
 
 
 ## PREREQUISITE
