@@ -17,7 +17,7 @@ A python script to create file using python, read file, make requests to a url, 
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/solomonbestz/Send-ANd-Read-Mail-With-Python.git
+    git clone https://github.com/solomonbestz/Create-Read-and-Download-Files.git
     ```
 
 2. Install Dependencies
